@@ -68,6 +68,12 @@ namespace Game_Of_Life
             return menuItem;
         }
 
+
+        void test()
+        {
+
+        }
+
     }
 
     public partial class ConwayMain : Form
