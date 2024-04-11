@@ -71,6 +71,7 @@ namespace Game_Of_Life
 
         void test()
         {
+            MessageBox.Show("TEST TEST");
 
         }
 
