@@ -72,8 +72,7 @@ namespace Game_Of_Life
          void Test()
         {
             Console.WriteLine("мяу");
-
-
+            Console.WriteLine("понімяу");
         }
 
     }
