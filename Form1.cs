@@ -69,10 +69,9 @@ namespace Game_Of_Life
         }
 
 
-        void test()
+         void Test()
         {
-            MessageBox.Show("TEST TEST");
-
+           
         }
 
     }
