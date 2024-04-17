@@ -73,6 +73,8 @@ namespace Game_Of_Life
         {
             Console.WriteLine("мяу");
             Console.WriteLine("поні-мяу");
+
+
         }
 
     }
